@@ -39,5 +39,3 @@ Contributions are welcome; please follow standard Git and GitHub contribution wo
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-Thank you for your interest in the House Price Predictor project!
